@@ -10,6 +10,7 @@
 #endif
 #endif
 
+#import "CTMediator+Author.h"
 
 FOUNDATION_EXPORT double FFAuthorKit_CategoryVersionNumber;
 FOUNDATION_EXPORT const unsigned char FFAuthorKit_CategoryVersionString[];

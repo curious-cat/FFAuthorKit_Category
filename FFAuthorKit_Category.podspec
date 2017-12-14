@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'FFAuthorKit_Category'
-  s.version          = '2.5'
+  s.version          = '3.0'
   s.summary          = '组件通信'
 
 # This description is used to generate tags and improve search results.

@@ -1,6 +1,6 @@
 {
   "name": "FFAuthorKit_Category",
-  "version": "2.5",
+  "version": "3.0",
   "summary": "组件通信",
   "description": "TODO: 组件通信",
   "homepage": "https://github.com/curious-cat/FFAuthorKit_Category",
@@ -13,7 +13,7 @@
   },
   "source": {
     "git": "https://github.com/curious-cat/FFAuthorKit_Category.git",
-    "tag": "2.5"
+    "tag": "3.0"
   },
   "platforms": {
     "ios": "8.0"
